@@ -167,5 +167,3 @@ This project covers:
 - Bulk operations (BULK COLLECT, FORALL)
 - Exception handling and cursor attributes
 - Packages and modular programming
-
-Would you like me to start building the full SQL and PL/SQL script for this system? I can provide the complete code, sample data, and test cases.
